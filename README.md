@@ -20,4 +20,4 @@ It can perform basic operations like addition, subtraction, multiplication, and 
 - Writing simple Python programs  
 
 ## 👨‍💻 Author
-Anuj 
+ Coded-By-Anuj 
