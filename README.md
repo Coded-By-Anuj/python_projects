@@ -12,7 +12,7 @@ It can perform basic operations like addition, subtraction, multiplication, and 
 
 ## ▶️ How to Run
 1. Open the file in your computer  
-2. Run the program using:
+2. Run the program using:VS code,IDLE or any python supporting code editor as you preferred
 
 ## 📚 What I Learned
 - Taking user input  
